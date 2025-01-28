@@ -96,7 +96,7 @@ Below each learning objective is a list of general expectations for meeting that
 
         -   [ ] Objective attempt
         -   [x] Unique objective attempt
-        -   [ ] Objective met
+        -   [x] Objective met
         -   Grader comments:
 
 6.  Use arithmetic, comparison, and logical operators
@@ -107,7 +107,7 @@ Below each learning objective is a list of general expectations for meeting that
         -   [ ] Objective attempt
         -   [x] Unique objective attempt
         -   [ ] Objective met
-        -   Grader comments:
+        -   Grader comments: Missing arithmetic and comparison operators.
 
 7.  Parse and define functions and arguments
 
@@ -128,7 +128,7 @@ Below each learning objective is a list of general expectations for meeting that
         -   [ ] Objective attempt
         -   [x] Unique objective attempt
         -   [ ] Objective met
-        -   Grader comments:
+        -   Grader comments: I didn't see conditional statements or loops in the script. Please let me know if I missed them.
 
 ### Tidyverse
 
@@ -161,7 +161,7 @@ Below each learning objective is a list of general expectations for meeting that
         -   [ ] Objective attempt
         -   [x] Unique objective attempt
         -   [ ] Objective met
-        -   Grader comments:
+        -   Grader comments:You seemed to use only one stringr function, `str_replace_all()`. Please use at least one more stringr function to meet the objective.
 
 12. Use `forcats` functions to work with factor variables
 
