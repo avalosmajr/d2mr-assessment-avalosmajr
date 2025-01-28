@@ -95,7 +95,7 @@ Below each learning objective is a list of general expectations for meeting that
     2. Uses more than one function to install/load/require packages
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [x] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -105,7 +105,7 @@ Below each learning objective is a list of general expectations for meeting that
     2. Uses multiple operators in data transformation pipelines and/or inline R code
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [x] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -126,7 +126,7 @@ Below each learning objective is a list of general expectations for meeting that
     2. Uses multiple types of conditional/loop functions (e.g., `if_else()`, `case_when()`, `for`, `while`)
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [x] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -159,7 +159,7 @@ Below each learning objective is a list of general expectations for meeting that
     2. Uses `stringr` functions in a data transformation pipeline
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [x] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
