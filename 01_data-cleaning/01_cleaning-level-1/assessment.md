@@ -127,8 +127,8 @@ Below each learning objective is a list of general expectations for meeting that
 
         -   [ ] Objective attempt
         -   [x] Unique objective attempt
-        -   [ ] Objective met
-        -   Grader comments: I didn't see conditional statements or loops in the script. Please let me know if I missed them.
+        -   [x] Objective met
+        -   Grader comments: ND - Adding point for case_when() functions ~~I didn't see conditional statements or loops in the script. Please let me know if I missed them.~~
 
 ### Tidyverse
 
@@ -149,9 +149,9 @@ Below each learning objective is a list of general expectations for meeting that
     3. Combines `dplyr` and `tidyr` functions in a data transformation pipeline
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
-        -   [ ] Objective met
-        -   Grader comments:
+        -   [x] Unique objective attempt
+        -   [x] Objective met
+        -   Grader comments: ND - Michael, you *definitely* did this one but you didn't mark it as an attempt! I'm giving it to you now, but it the future you'll only get points for attempts to mark, so be careful to check off anything you're aiming to meet.
 
 11. Use `stringr` functions to work with string variables
 
@@ -462,16 +462,18 @@ Thoughtful reflections may earn engagement points.
 
 -   Grader: Yuchen Jin
 -   Date: January 31, 2025
--   Points toward unique objectives (up to 20): 1
+-   Points toward unique objectives (up to 20): 3
 -   Additional points (up to 20): 0
 -   TA provisional engagement points (up to 10): 1
--   Final approved engagement points (up to 10):
--   Total points (up to 50): 2
+-   Final approved engagement points (up to 10): 3
+-   Total points (up to 50): 6
 
 Engagement points are awarded for going above and beyond the expectations of the project and are not guaranteed on any given submission.. Demonstrating the assessed learning objectives earns you points in those categories, but engagement points are awarded for exceptional effort, creativity, or skill.
 
 TAs may recommend engagement points provisionally, but the instructor will make the final decision on engagement points.
 
-Additional comments: 
+Additional comments:
+
+ND - Nice work, Michael! For future projects, be sure you fill out the assessment in full, including the basic info section at the top! Read through the assessment a couple times before you submit it to mark off all the objectives you're aiming to meet. You should also note where you think you may have met unassessed objectives or otherwise gone above and beyond the requirements of the project. 3 engagement points for great answers to the in-assigment questions. Keep up the good work!
 
 
