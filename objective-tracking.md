@@ -6,6 +6,8 @@ This document tracks your progress meeting 20 unique objectives across all mini-
 
 ## Unique objectives
 
+2025-02-05: 3/20
+
 ## GitHub and R Studio
 
 1.  [ ] Create and maintain a repo with sensible organization and naming conventions
@@ -18,12 +20,12 @@ This document tracks your progress meeting 20 unique objectives across all mini-
 5.  [x] Find, install, require, and load R packages
 6.  [ ] Use arithmetic, comparison, and logical operators
 7.  [ ] Parse and define functions and arguments
-8.  [ ] Parse and write conditional statements and/or loops
+8.  [x] Parse and write conditional statements and/or loops
 
 ## Tidyverse
 
 9.  [ ] Use `readr` functions to read in and write out data
-10. [ ] Use `dplyr` and `tidyr` functions to transform data
+10. [x] Use `dplyr` and `tidyr` functions to transform data
 11. [ ] Use `stringr` functions to work with string variables
 12. [ ] Use `forcats` functions to work with factor variables
 
